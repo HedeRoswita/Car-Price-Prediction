@@ -10,7 +10,8 @@ To recognize how prices vary with independent variables, Geely Auto has collecte
 This project’s dataset was taken from Kaggle’s automobiles and vehicles dataset (https://www.kaggle.com/hellbuoy/car-price-prediction). The dataset was taken in 1987 based one 1985 model import car, truck specification and insurance collision report and was generated to learning purposes. 
 
 # Data Description 
-	The Car Price dataset consist of 205 observations with 24 variables. This dataset comprises three types of factors: 
+
+The Car Price dataset consist of 205 observations with 24 variables. This dataset comprises three types of factors: 
 The car’s specification that explains several characteristics of the car 
 Insurance risk rating (symbolling process) is ranging from -3 to 3 which corresponds to the degree of risk associated with the car’s price. A value of 3 means that the car is risky. On the other hand, insurance risk with rating -3 means the car is safe. 
 The relative average loss payment for each insured vehicle year. This record is normalized based on the size classification, for instance two-door small, station wagons, sport, etc. It also depicts the mean loss per car per year.
